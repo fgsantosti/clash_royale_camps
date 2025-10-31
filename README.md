@@ -11,11 +11,11 @@
 
 #### **Grupo 1 - Os Titãs do Arena** ⚡
 ```
-🎮 Joao Artur
+🎮 Joao Arthur
 🎮 Victor Gabriel  
 🎮 Marcos Túlio
 🎮 Luis Felipe
-🎮 João Lucas
+🎮 Gian
 ```
 
 #### **Grupo 2 - Os Mestres do Duelo** 🔥
@@ -93,28 +93,28 @@
 
 ### Rodada 1 🎯
 ```
-🎮 Joao Artur vs Victor Gabriel
+🎮 Joao Arthur vs Victor Gabriel
 🎮 Marcos Túlio vs Luis Felipe
-🎮 João Lucas - BYE
+🎮 Gian - BYE
 ```
 
 ### Rodada 2 🎯
 ```
-🎮 Joao Artur vs Marcos Túlio
-🎮 Victor Gabriel vs João Lucas
+🎮 Joao Arthur vs Marcos Túlio
+🎮 Victor Gabriel vs Gian
 🎮 Luis Felipe - BYE
 ```
 
 ### Rodada 3 🎯
 ```
-🎮 Joao Artur vs Luis Felipe
-🎮 Marcos Túlio vs João Lucas
+🎮 Joao Arthur vs Luis Felipe
+🎮 Marcos Túlio vs Gian
 🎮 Victor Gabriel - BYE
 ```
 
 ### Rodada 4 🎯
 ```
-🎮 Joao Artur vs João Lucas
+🎮 Joao Arthur vs Gian
 🎮 Victor Gabriel vs Luis Felipe
 🎮 Marcos Túlio - BYE
 ```
@@ -122,8 +122,9 @@
 ### Rodada 5 🎯
 ```
 🎮 Victor Gabriel vs Marcos Túlio
-🎮 Luis Felipe vs João Lucas
-🎮 Joao Artur - BYE
+🎮 Luis Felipe vs Gian
+🎮 Joao Arthur - BYE
+
 ```
 
 ---
